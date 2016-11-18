@@ -9,13 +9,10 @@ public class TestClass {
 	System.out.println("out put is"+c);
 	System.out.println("added a line whether its alone commit or with the file its commit");
 
-Praveen changes 
 
-hai 
-
-get pull message sub system
 
 chelvi changes
+check file
 
 
 }
