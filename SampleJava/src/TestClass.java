@@ -7,24 +7,6 @@ public class TestClass {
 		int c=a+b;
 	
 	System.out.println("out put is"+c);
-*praveen
 
-<<<<<<< .mine
-skrjfkjfkf
-;sfk;sk;fksd
-sfjlskdjflsdjfriurfusdflldsf
-lsjflksdjfdsjf;dsf;df
-fdsjllkfsdsfdjlkfjdslkf
-sdfllkdfjjlkjklfds
-
-sign off text
-
-Adding New Line
-
-	}
-
-
-test 
-
-commit test 
+}
 }
